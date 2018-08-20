@@ -1,2 +1,2 @@
 # effective-octo-spoon
-First testing reposotory
+First testing repository
